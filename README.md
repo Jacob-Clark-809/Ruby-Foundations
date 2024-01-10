@@ -1,1 +1,8 @@
-# RB130-Ruby-Foundations-More-Topics
+# Ruby Foundations
+
+Exercises solved using Ruby.
+
+Topics include:
+- iterative methods
+- minitest
+- oop
